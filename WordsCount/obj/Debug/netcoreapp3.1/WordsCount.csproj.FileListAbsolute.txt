@@ -1,0 +1,15 @@
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\bin\Debug\netcoreapp3.1\WordsCount.exe
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\bin\Debug\netcoreapp3.1\WordsCount.deps.json
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\bin\Debug\netcoreapp3.1\WordsCount.runtimeconfig.json
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\bin\Debug\netcoreapp3.1\WordsCount.runtimeconfig.dev.json
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\bin\Debug\netcoreapp3.1\WordsCount.dll
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\bin\Debug\netcoreapp3.1\WordsCount.pdb
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\obj\Debug\netcoreapp3.1\WordsCount.csprojAssemblyReference.cache
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\obj\Debug\netcoreapp3.1\WordsCount.Main.resources
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\obj\Debug\netcoreapp3.1\WordsCount.csproj.GenerateResource.cache
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\obj\Debug\netcoreapp3.1\WordsCount.AssemblyInfoInputs.cache
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\obj\Debug\netcoreapp3.1\WordsCount.AssemblyInfo.cs
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\obj\Debug\netcoreapp3.1\WordsCount.csproj.CoreCompileInputs.cache
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\obj\Debug\netcoreapp3.1\WordsCount.dll
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\obj\Debug\netcoreapp3.1\WordsCount.pdb
+C:\Users\Gololobov\source\repos\TextEditor\WordsCount\obj\Debug\netcoreapp3.1\WordsCount.genruntimeconfig.cache
